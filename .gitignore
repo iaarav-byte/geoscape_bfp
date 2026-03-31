@@ -1,0 +1,10 @@
+*.tif 
+*.png 
+*.json
+.venv
+*.pt
+
+dataset/
+runs/
+results/
+yolo_test_results_*/
